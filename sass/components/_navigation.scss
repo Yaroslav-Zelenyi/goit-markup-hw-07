@@ -1,3 +1,7 @@
+.navigation__portfolio-nav {
+ @extend .navigation__portfolio-nav;
+}
+
 .portfolio__main-navigation {
  display: flex;
  align-items: center;
